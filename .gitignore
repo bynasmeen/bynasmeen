@@ -1,0 +1,9 @@
+node_modules/
+.next/
+.env*
+*.tsbuildinfo
+.vercel/
+.DS_Store
+preview-*.jpg
+WEBSITE_CONTENT_HANDOFF.md
+scripts/check-portfolio-content.mjs
